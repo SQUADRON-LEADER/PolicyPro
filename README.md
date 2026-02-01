@@ -33,6 +33,7 @@ This project is ideal for **students, beginners in ML, and data science enthusia
 
 <img width="1515" height="761" alt="Screenshot 2026-02-01 222720" src="https://github.com/user-attachments/assets/02155105-3f9c-49f3-b1cf-86ef6b7bd6db" />
 
+<img width="1869" height="828" alt="Screenshot 2026-02-01 222740" src="https://github.com/user-attachments/assets/034e5915-5827-4177-836b-0dba294d6a46" />
 
 ## 📦 Dataset
 
