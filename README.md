@@ -29,6 +29,8 @@ This project is ideal for **students, beginners in ML, and data science enthusia
 * 📁 Simple and beginner-friendly project structure
 
 ---
+<img width="1898" height="849" alt="Screenshot 2026-02-01 222658" src="https://github.com/user-attachments/assets/9d5cb2c0-bc39-4ceb-b4e6-f8da9c16a2a2" />
+
 
 ## 📦 Dataset
 
